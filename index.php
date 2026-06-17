@@ -9,20 +9,7 @@
   <link
     rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
-  <style>
-    html {
-      scroll-behavior: smooth;
-    }
-
-    body {
-      background: #f8fafc;
-      font-family:
-        "Inter",
-        system-ui,
-        -apple-system,
-        sans-serif;
-    }
-  </style>
+    <link rel="stylesheet" href="./assets/style.css">
 </head>
 
 <body class="antialiased text-gray-800">

@@ -9,31 +9,7 @@
   <link
     rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
-  <style>
-    html {
-      scroll-behavior: smooth;
-    }
-
-    body {
-      background: #f8fafc;
-      font-family:
-        "Inter",
-        system-ui,
-        -apple-system,
-        sans-serif;
-    }
-
-    .project-card {
-      transition:
-        transform 0.2s ease,
-        box-shadow 0.2s ease;
-    }
-
-    .project-card:hover {
-      transform: translateY(-6px);
-      box-shadow: 0 25px 30px -12px rgba(0, 0, 0, 0.15);
-    }
-  </style>
+    <link rel="stylesheet" href="./assets/style.css">
 </head>
 
 <body class="antialiased text-gray-800">
