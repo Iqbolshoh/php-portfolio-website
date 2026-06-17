@@ -43,7 +43,7 @@
             <div
               class="mt-7 flex flex-wrap gap-4 justify-center md:justify-start">
               <a
-                href="loyhalar.php"
+                href="project.php"
                 class="inline-flex items-center bg-gray-900 text-white px-6 py-3 rounded-full font-medium hover:bg-gray-800 transition shadow-md">
                 Loyihalarim <i class="fas fa-arrow-right ml-2 text-sm"></i>
               </a>

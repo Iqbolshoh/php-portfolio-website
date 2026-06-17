@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "Online Do'kon",
+    "description": "React, Node.js, Stripe to'lov tizimi bilan to'liq e-commerce platforma.",
+    "icon": "fas fa-shopping-cart",
+    "gradient": "from-indigo-400 to-purple-500",
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&h=400&fit=crop",
+    "tags": ["React", "Tailwind", "MongoDB"],
+    "year": 2026,
+    "link": "#"
+  },
+  {
+    "id": 2,
+    "title": "TaskFlow boshqaruv",
+    "description": "Kanban uslubidagi loyiha boshqarish vositasi, real vaqt yangilanishi.",
+    "icon": "fas fa-tasks",
+    "gradient": "from-emerald-400 to-teal-500",
+    "image": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=600&h=400&fit=crop",
+    "tags": ["Next.js", "Tailwind", "Firebase"],
+    "year": 2026,
+    "link": "#"
+  },
+  {
+    "id": 3,
+    "title": "Blog platformasi",
+    "description": "MDX qo'llab-quvvatlaydigan statik blog, SEO optimallashtirilgan.",
+    "icon": "fas fa-newspaper",
+    "gradient": "from-amber-400 to-orange-500",
+    "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=600&h=400&fit=crop",
+    "tags": ["Gatsby", "Tailwind", "GraphQL"],
+    "year": 2024,
+    "link": "#"
+  },
+  {
+    "id": 4,
+    "title": "Analitika paneli",
+    "description": "Interaktiv diagrammalar va hisobotlar bilan ma'lumotlar vizualizatsiyasi.",
+    "icon": "fas fa-chart-line",
+    "gradient": "from-rose-400 to-pink-500",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop",
+    "tags": ["Vue", "D3.js", "Tailwind"],
+    "year": 2024,
+    "link": "#"
+  },
+  {
+    "id": 5,
+    "title": "FitTrack mobil ilova",
+    "description": "React Native bilan yaratilgan sog'liqni saqlash trekeri.",
+    "icon": "fas fa-mobile-alt",
+    "gradient": "from-sky-400 to-blue-600",
+    "image": "https://images.unsplash.com/photo-1616348436168-de43ad0db179?w=600&h=400&fit=crop",
+    "tags": ["React Native", "Tailwind"],
+    "year": 2023,
+    "link": "#"
+  },
+  {
+    "id": 6,
+    "title": "Ob-havo ilovasi",
+    "description": "OpenWeather API asosida real vaqt ob-havo ma'lumotlari.",
+    "icon": "fas fa-cloud-sun",
+    "gradient": "from-violet-400 to-purple-700",
+    "image": "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=600&h=400&fit=crop",
+    "tags": ["JavaScript", "Tailwind"],
+    "year": 2023,
+    "link": "#"
+  },
+  {
+    "id": 7,
+    "title": "Restoran bron tizimi",
+    "description": "Mijozlar uchun onlayn stol band qilish va menyu ko'rish imkoniyati.",
+    "icon": "fas fa-utensils",
+    "gradient": "from-red-400 to-rose-600",
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=600&h=400&fit=crop",
+    "tags": ["Laravel", "Vue.js", "MySQL"],
+    "year": 2025,
+    "link": "#"
+  },
+  {
+    "id": 8,
+    "title": "Online kurs platformasi",
+    "description": "Video darsliklar, testlar va sertifikatlar bilan to'liq LMS tizimi.",
+    "icon": "fas fa-graduation-cap",
+    "gradient": "from-cyan-400 to-blue-600",
+    "image": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=600&h=400&fit=crop",
+    "tags": ["Django", "React", "PostgreSQL"],
+    "year": 2025,
+    "link": "#"
+  },
+  {
+    "id": 9,
+    "title": "Chat ilovasi",
+    "description": "WebSocket asosida yaratilgan real vaqt messenjer, guruhli suhbatlar.",
+    "icon": "fas fa-comments",
+    "gradient": "from-green-400 to-emerald-600",
+    "image": "https://images.unsplash.com/photo-1611606063065-ee7946f0787a?w=600&h=400&fit=crop",
+    "tags": ["Socket.io", "Express", "React"],
+    "year": 2024,
+    "link": "#"
+  },
+  {
+    "id": 10,
+    "title": "Portfolio generator",
+    "description": "JSON ma'lumotlardan avtomatik professional portfolio sayt yaratuvchi vosita.",
+    "icon": "fas fa-folder-open",
+    "gradient": "from-orange-400 to-red-500",
+    "image": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?w=600&h=400&fit=crop",
+    "tags": ["Next.js", "Tailwind", "Vercel"],
+    "year": 2026,
+    "link": "#"
+  }
+]

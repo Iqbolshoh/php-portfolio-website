@@ -18,7 +18,7 @@
                 <a href="index.php" class="relative px-4 py-2 text-sm font-medium text-gray-900 bg-gray-100 rounded-lg transition-colors duration-300">
                     Bosh sahifa
                 </a>
-                <a href="loyhalar.php" class="px-4 py-2 text-sm font-medium text-gray-600 hover:text-gray-900 hover:bg-gray-50 rounded-lg transition-colors duration-300">
+                <a href="project.php" class="px-4 py-2 text-sm font-medium text-gray-600 hover:text-gray-900 hover:bg-gray-50 rounded-lg transition-colors duration-300">
                     Loyihalar
                 </a>
             </nav>
@@ -50,7 +50,7 @@
                 <i class="fas fa-home text-indigo-500 w-5 text-center"></i>
                 Bosh sahifa
             </a>
-            <a href="loyhalar.php" class="flex items-center gap-3 px-3 py-3 rounded-xl text-sm font-medium text-gray-600 hover:text-gray-900 hover:bg-gray-50 transition-colors duration-200">
+            <a href="project.php" class="flex items-center gap-3 px-3 py-3 rounded-xl text-sm font-medium text-gray-600 hover:text-gray-900 hover:bg-gray-50 transition-colors duration-200">
                 <i class="fas fa-folder-open text-gray-400 w-5 text-center"></i>
                 Loyihalar
             </a>

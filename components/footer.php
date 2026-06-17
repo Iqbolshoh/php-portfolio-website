@@ -42,7 +42,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="loyhalar.php" class="text-gray-500 hover:text-indigo-600 text-sm transition-colors duration-300 flex items-center gap-2 group">
+                        <a href="project.php" class="text-gray-500 hover:text-indigo-600 text-sm transition-colors duration-300 flex items-center gap-2 group">
                             <i class="fas fa-chevron-right text-xs text-gray-300 group-hover:text-indigo-600 transition-colors duration-300"></i>
                             Loyihalar
                         </a>
