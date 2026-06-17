@@ -8,7 +8,7 @@
     "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&h=400&fit=crop",
     "tags": ["React", "Tailwind", "MongoDB"],
     "year": 2026,
-    "link": "#"
+    "link": "https://online-shop-demo.vercel.app"
   },
   {
     "id": 2,
@@ -19,7 +19,7 @@
     "image": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=600&h=400&fit=crop",
     "tags": ["Next.js", "Tailwind", "Firebase"],
     "year": 2026,
-    "link": "#"
+    "link": "https://taskflow-app.netlify.app"
   },
   {
     "id": 3,
@@ -30,7 +30,7 @@
     "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=600&h=400&fit=crop",
     "tags": ["Gatsby", "Tailwind", "GraphQL"],
     "year": 2024,
-    "link": "#"
+    "link": "https://tech-blog-gatsby.netlify.app"
   },
   {
     "id": 4,
@@ -41,7 +41,7 @@
     "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop",
     "tags": ["Vue", "D3.js", "Tailwind"],
     "year": 2024,
-    "link": "#"
+    "link": "https://analytics-dashboard-demo.vercel.app"
   },
   {
     "id": 5,
@@ -52,7 +52,7 @@
     "image": "https://images.unsplash.com/photo-1616348436168-de43ad0db179?w=600&h=400&fit=crop",
     "tags": ["React Native", "Tailwind"],
     "year": 2023,
-    "link": "#"
+    "link": "https://fittrack-app.netlify.app"
   },
   {
     "id": 6,
@@ -63,7 +63,7 @@
     "image": "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=600&h=400&fit=crop",
     "tags": ["JavaScript", "Tailwind"],
     "year": 2023,
-    "link": "#"
+    "link": "https://weather-app-js.netlify.app"
   },
   {
     "id": 7,
@@ -72,9 +72,9 @@
     "icon": "fas fa-utensils",
     "gradient": "from-red-400 to-rose-600",
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=600&h=400&fit=crop",
-    "tags": ["Laravel", "Vue.js", "MySQL"],
+    "tags": ["Laravel", "Vue.js", "Tailwind", "MySQL"],
     "year": 2025,
-    "link": "#"
+    "link": "https://restaurant-booking.herokuapp.com"
   },
   {
     "id": 8,
@@ -83,9 +83,9 @@
     "icon": "fas fa-graduation-cap",
     "gradient": "from-cyan-400 to-blue-600",
     "image": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=600&h=400&fit=crop",
-    "tags": ["Django", "React", "PostgreSQL"],
+    "tags": ["React", "PostgreSQL"],
     "year": 2025,
-    "link": "#"
+    "link": "https://online-courses-platform.vercel.app"
   },
   {
     "id": 9,
@@ -96,7 +96,7 @@
     "image": "https://images.unsplash.com/photo-1611606063065-ee7946f0787a?w=600&h=400&fit=crop",
     "tags": ["Socket.io", "Express", "React"],
     "year": 2024,
-    "link": "#"
+    "link": "https://realtime-chat-app.onrender.com"
   },
   {
     "id": 10,
@@ -107,6 +107,6 @@
     "image": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?w=600&h=400&fit=crop",
     "tags": ["Next.js", "Tailwind", "Vercel"],
     "year": 2026,
-    "link": "#"
+    "link": "https://portfolio-generator-tool.vercel.app"
   }
 ]
